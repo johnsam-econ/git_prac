@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() { 
-  printf("Helooo");
+  printf("Helooo.......");
   return 0; 
 }
 // master work
